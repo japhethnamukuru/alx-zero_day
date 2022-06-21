@@ -1,2 +1,1 @@
-My first readme
-staying upto date on with git
+Staying up to date with git
